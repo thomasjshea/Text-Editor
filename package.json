@@ -11,9 +11,9 @@
     "install": "cd server && npm i && cd ../client && npm i",
     "client": "cd client and npm start"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["text", "editor"],
+  "author": "Thomas Shea",
+  "license": "Apache 2.0",
   "dependencies": {
     "express": "^4.17.1",
     "if-env": "^1.0.4"
