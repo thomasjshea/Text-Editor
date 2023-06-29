@@ -15,9 +15,13 @@ To install this application on your machine, navigate to my [Github Repository](
 
 To Use this application without having to clone the repo to your machine, you can navigate to [JATE](https://guarded-cliffs-48541-489bd4b7fb1b.herokuapp.com/) and begin using the app without any installation required. From here, you are able to install the app to your computer. 
 
+Screenshot
+[!Screenshot](./Images/JATE-Screenshot.png)
+
 ## Credits
 
 I completed this assignment on my own with no assistance
+
 ## License
 
 This project uses the Apache 2.0 License
